@@ -1,0 +1,99 @@
+<VAST xmlns="" version="4.2">
+    <Ad adType="audio">
+        <InLine>
+            <AdSystem version="202309.1">Conversant</AdSystem>
+            <AdTitle>
+                <![CDATA[ 5.31.23_LAUNCH 103922_14905_BRFI0067000_Bread_Anthem_30 ]]>
+            </AdTitle>
+            <Error>
+                <![CDATA[ https://iad-usadmm.dotomi.com/event/preview/lifecycle?dtm_command_op_date=1694450487166&company_id=63196&line_item_id=14905&assigned_creative_id=14997&etype=164&edtl=[ERRORCODE] ]]>
+            </Error>
+            <Impression>
+                <![CDATA[ https://iad-usadmm.dotomi.com/event/preview/lifecycle?dtm_command_op_date=1694450487166&company_id=63196&line_item_id=14905&assigned_creative_id=14997&etype=3006 ]]>
+            </Impression>
+            <Impression>
+                <![CDATA[ https://iad-usadmm.dotomi.com/event/preview/lifecycle?dtm_command_op_date=1694450487166&company_id=63196&line_item_id=14905&assigned_creative_id=14997&etype=3008&feedback_pixel=https%3A%2F%2Fpixel.adsafeprotected.com%2F%3FanId%3D116%26advId%3D63196%26campId%3D14905%26pubId%3D0%26planId%3D%26chanId%3D1%26placementId%3D0%26adsafe_par%26impId%3D0%26vURL%3D%26bidurl%3D%26bundleId%3D&fireOn=impression ]]>
+            </Impression>
+            <Impression>
+                <![CDATA[ https://iad-usadmm.dotomi.com/event/preview/lifecycle?dtm_command_op_date=1694450487166&company_id=63196&line_item_id=14905&assigned_creative_id=14997&etype=3008&feedback_pixel=https%3A%2F%2Fservedby.flashtalking.com%2Fimp%2F8%2F199441%3B7402982%3B201%3Bpixel%3BConversant%3BDMSBrandedAudioBreadAnthem30s%2F%3Fgdpr%3D%26gdpr_consent%3D%26us_privacy%3D%26cachebuster%3D0&fireOn=impression ]]>
+            </Impression>
+            <Expires>0</Expires>
+            <Creatives>
+                <Creative id="63196_14997">
+                    <Linear skipoffset="0">
+                        <Duration>00:00:30</Duration>
+                        <TrackingEvents>
+                            <Tracking event="playerExpand">
+                                <![CDATA[ https://iad-usadmm.dotomi.com/event/preview/lifecycle?dtm_command_op_date=1694450487166&company_id=63196&line_item_id=14905&assigned_creative_id=14997&etype=157 ]]>
+                            </Tracking>
+                            <Tracking event="mute">
+                                <![CDATA[ https://iad-usadmm.dotomi.com/event/preview/lifecycle?dtm_command_op_date=1694450487166&company_id=63196&line_item_id=14905&assigned_creative_id=14997&etype=135 ]]>
+                            </Tracking>
+                            <Tracking event="playerCollapse">
+                                <![CDATA[ https://iad-usadmm.dotomi.com/event/preview/lifecycle?dtm_command_op_date=1694450487166&company_id=63196&line_item_id=14905&assigned_creative_id=14997&etype=158 ]]>
+                            </Tracking>
+                            <Tracking event="unmute">
+                                <![CDATA[ https://iad-usadmm.dotomi.com/event/preview/lifecycle?dtm_command_op_date=1694450487166&company_id=63196&line_item_id=14905&assigned_creative_id=14997&etype=140 ]]>
+                            </Tracking>
+                            <Tracking event="resume">
+                                <![CDATA[ https://iad-usadmm.dotomi.com/event/preview/lifecycle?dtm_command_op_date=1694450487166&company_id=63196&line_item_id=14905&assigned_creative_id=14997&etype=150 ]]>
+                            </Tracking>
+                            <Tracking event="thirdQuartile">
+                                <![CDATA[ https://iad-usadmm.dotomi.com/event/preview/lifecycle?dtm_command_op_date=1694450487166&company_id=63196&line_item_id=14905&assigned_creative_id=14997&etype=125 ]]>
+                            </Tracking>
+                            <Tracking event="complete">
+                                <![CDATA[ https://iad-usadmm.dotomi.com/event/preview/lifecycle?dtm_command_op_date=1694450487166&company_id=63196&line_item_id=14905&assigned_creative_id=14997&etype=130 ]]>
+                            </Tracking>
+                            <Tracking event="pause">
+                                <![CDATA[ https://iad-usadmm.dotomi.com/event/preview/lifecycle?dtm_command_op_date=1694450487166&company_id=63196&line_item_id=14905&assigned_creative_id=14997&etype=145 ]]>
+                            </Tracking>
+                            <Tracking event="skip">
+                                <![CDATA[ https://iad-usadmm.dotomi.com/event/preview/lifecycle?dtm_command_op_date=1694450487166&company_id=63196&line_item_id=14905&assigned_creative_id=14997&etype=161 ]]>
+                            </Tracking>
+                            <Tracking event="start">
+                                <![CDATA[ https://iad-usadmm.dotomi.com/event/preview/lifecycle?dtm_command_op_date=1694450487166&company_id=63196&line_item_id=14905&assigned_creative_id=14997&etype=110 ]]>
+                            </Tracking>
+                            <Tracking event="firstQuartile">
+                                <![CDATA[ https://iad-usadmm.dotomi.com/event/preview/lifecycle?dtm_command_op_date=1694450487166&company_id=63196&line_item_id=14905&assigned_creative_id=14997&etype=112 ]]>
+                            </Tracking>
+                            <Tracking event="midpoint">
+                                <![CDATA[ https://iad-usadmm.dotomi.com/event/preview/lifecycle?dtm_command_op_date=1694450487166&company_id=63196&line_item_id=14905&assigned_creative_id=14997&etype=115 ]]>
+                            </Tracking>
+                            <Tracking event="rewind">
+                                <![CDATA[ https://iad-usadmm.dotomi.com/event/preview/lifecycle?dtm_command_op_date=1694450487166&company_id=63196&line_item_id=14905&assigned_creative_id=14997&etype=156 ]]>
+                            </Tracking>
+                        </TrackingEvents>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive" type="audio/ogg" width="0" height="0" bitrate="192" minBitrate="0" maxBitrate="0" scalable="false" maintainAspectRatio="false" fileSize="0">
+                                <![CDATA[ https://vstatic.fastclick.net/static/archiver/audio/52b/f71/43a/52bf7143a0a73acaa16c0507caca545408aca92d6ecd2897448bc7f9d31a9358.ogg ]]>
+                            </MediaFile>
+                            <MediaFile delivery="progressive" type="audio/mpeg" width="0" height="0" bitrate="192" minBitrate="0" maxBitrate="0" scalable="false" maintainAspectRatio="false" fileSize="0">
+                                <![CDATA[ https://vstatic.fastclick.net/static/archiver/audio/6c6/afe/c3f/6c6afec3f5b4ed9280ce55e434e8807936790d8f8fb213f07e142f808e955372.mp3 ]]>
+                            </MediaFile>
+                        </MediaFiles>
+                        <Icons/>
+                        <VideoClicks>
+                            <ClickThrough>
+                                <![CDATA[ https://iad-usadmm.dotomi.com/event/preview/lifecycle?dtm_command_op_date=1694450487166&company_id=63196&line_item_id=14905&assigned_creative_id=14997&fireOn=clickThrough&feedback_pixel=https%3A%2F%2Fcomenity.com ]]>
+                            </ClickThrough>
+                            <ClickTracking>
+                                <![CDATA[ https://iad-usadmm.dotomi.com/event/preview/lifecycle?dtm_command_op_date=1694450487166&company_id=63196&line_item_id=14905&assigned_creative_id=14997&etype=3002 ]]>
+                            </ClickTracking>
+                        </VideoClicks>
+                    </Linear>
+                    <CompanionAds>
+                        <Companion height="250" width="300">
+                            <StaticResource creativeType="image/gif">
+                                <![CDATA[ https://secure.cdn.fastclick.net/content/archiver/permanent/79f/6e0/abb/79f6e0abb0e642dce7b69f264ac75b793f6f07c941646f381fa859fab06b6cd5.gif ]]>
+                            </StaticResource>
+                            <CompanionClickThrough>
+                                <![CDATA[ https://www.epsilon.com/us?f=companion&b=banner&t=click ]]>
+                            </CompanionClickThrough>
+                        </Companion>
+                    </CompanionAds>
+                </Creative>
+            </Creatives>
+            <Extensions/>
+        </InLine>
+    </Ad>
+</VAST>
